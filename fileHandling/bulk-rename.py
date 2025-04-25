@@ -1,6 +1,6 @@
 import os
 
-directory = "F:/Memories/Ghorepani Poonhill/F07"  # Path to your directory
+directory = "PATH/TO/YOUR/DIRECTORY"  # Path to your directory
 counter = 3588
 extensions = [".jpg", ".jpeg", ".png", ".gif", ".tiff", ".heic", ".heif"]
 
